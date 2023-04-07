@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>this is master branch title</title>
+=======
+	<title>this is sample branch title</title>
+>>>>>>> sample-branch
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+		</p>
+<<<<<<< HEAD
+		<p> hello mowa ee change master branch lo </p>
+=======
+		<p> hello mowa </p>
+		
+>>>>>>> sample-branch
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
