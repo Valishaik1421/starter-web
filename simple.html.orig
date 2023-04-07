@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <head>
-<<<<<<< HEAD
-	<title>this is master branch title</title>
-=======
+	<title></title>
 	<title>this is sample branch title</title>
->>>>>>> sample-branch
+	<title>this is master branch title</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,14 +16,17 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
-		</p>
+			Just some content , addding more content
 <<<<<<< HEAD
-		<p> hello mowa ee change master branch lo </p>
+			lsdlsddsldks
+			sdlfksdlks
+			sdfksdlkfs
+			skdflsdfjksd
+			sdfsdf
 =======
-		<p> hello mowa </p>
-		
->>>>>>> sample-branch
+			changes are added in bigtrouble branch
+>>>>>>> c9c3bfc (added new line)
+		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Company 2014</p>
