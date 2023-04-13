@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 
 #HI
 adding a line for rebasing example, more changed from myfeature branch
+
+vali.2014 all rights reserved
